@@ -1,4 +1,6 @@
 class Node:
+
+"""Beep Boop Bop"""
     def __init__(self, val): self.next, self.previous, self.data = None, None, val
 
 
